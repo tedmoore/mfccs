@@ -1,6 +1,6 @@
 ### Visit:
 
-https://www.tedmooremusic.com/MFCC-interactive-widget/
+https://www.tedmoore.art/mfccs
 
 or
 
